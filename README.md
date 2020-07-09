@@ -1,1 +1,1 @@
-# spring-cloud-configuration-local-TmnT
+# spring-cloud-configuration-TmnT
